@@ -4,7 +4,7 @@
 ## Overview
 Have fun hearting 🤍 your favorite trending gifs!
 
-Remember to follow the instructions below to set up you .env file and run this app locally with your giphy api key!
+* Remember to follow the instructions below to set up the .env file with your giphy api key and have fun running this app locally!
 
 This is a **Vite-powered React Typescript app** that allows users to search for GIFs via the Giphy API and save their favorite ones. The app utilizes **React Query** for efficient data fetching, **React Router** for navigation, and **Context API** for state management. Styled with **Styled Components**, it provides a sleek, modern UI with smooth interactions. With added input validations for security and ally best practices. Optimised with vitest testing framework.
 
@@ -63,7 +63,7 @@ This ensures safe, relevant searches and prevents security vulnerabilities.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/gif-app.git
+   git clone git@github.com:MarthaTaylor/vite-giphy-app.git
    cd gif-app
    ```
 

@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.app.tsbuildinfo",
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+  },
+  "include": ["src/**/*", "__tests__/**/*.test.ts*"],
+  "types": ["vitest/globals"] // Enables Vitest's test functions preferred for the front end not backend node
+}

@@ -4,6 +4,8 @@
 ## Overview
 Have fun hearting 🤍 your favorite trending gifs!
 
+Remember to follow the instructions below to set up you .env file and run this app locally with your giphy api key!
+
 This is a **Vite-powered React Typescript app** that allows users to search for GIFs via the Giphy API and save their favorite ones. The app utilizes **React Query** for efficient data fetching, **React Router** for navigation, and **Context API** for state management. Styled with **Styled Components**, it provides a sleek, modern UI with smooth interactions. With added input validations for security and ally best practices. Optimised with vitest testing framework.
 
 ## Features
